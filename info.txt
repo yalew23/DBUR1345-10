@@ -1,6 +1,1 @@
-First name :ylewgize 
-laste name: tadegegn
-id: dbur/1345/10
-year: 4 year
-Section:2
-semester :1
+Git is VCS
